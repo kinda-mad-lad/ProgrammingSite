@@ -1,0 +1,87 @@
+{
+  "languages": [
+    {
+      "name": "Python",
+      "paradigm": [
+        "Object-Oriented",
+        "Imperative",
+        "Functional"
+      ],
+      "latestVersion": "3.11",
+      "createdYear": 1991,
+      "creator": "Guido van Rossum",
+      "usage": {
+        "webDevelopment": true,
+        "dataScience": true,
+        "gameDevelopment": false,
+        "mobileApps": false
+      }
+    },
+    {
+      "name": "JavaScript",
+      "paradigm": [
+        "Event-Driven",
+        "Functional",
+        "Imperative"
+      ],
+      "latestVersion": "ES2023",
+      "createdYear": 1995,
+      "creator": "Brendan Eich",
+      "usage": {
+        "webDevelopment": true,
+        "dataScience": false,
+        "gameDevelopment": true,
+        "mobileApps": true
+      }
+    },
+    {
+      "name": "Rust",
+      "paradigm": [
+        "Concurrent",
+        "Functional",
+        "Imperative"
+      ],
+      "latestVersion": "1.72",
+      "createdYear": 2010,
+      "creator": "Graydon Hoare",
+      "usage": {
+        "webDevelopment": false,
+        "dataScience": false,
+        "gameDevelopment": true,
+        "mobileApps": false
+      }
+    },
+    {
+      "name": "Go",
+      "paradigm": [
+        "Concurrent",
+        "Imperative"
+      ],
+      "latestVersion": "1.21",
+      "createdYear": 2009,
+      "creator": "Robert Griesemer, Rob Pike, Ken Thompson",
+      "usage": {
+        "webDevelopment": true,
+        "dataScience": false,
+        "gameDevelopment": false,
+        "mobileApps": false
+      }
+    },
+    {
+      "name": "Flap",
+      "paradigm": [
+        "",
+        "Imperative"
+      ],
+      "latestVersion": "0.01",
+      "createdYear": 2069,
+      "Theflap": "",
+      "usage": {
+        "neededForCtf": true,
+        "dataScience": false,
+        "gameDevelopment": false,
+        "mobileApps": false
+      }
+    }
+  ]
+}
